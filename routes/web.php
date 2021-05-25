@@ -13,13 +13,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
 // Route::get('/', function () {
-//     return view('bienvenidos');
+//     return view('welcome');
 // });
+
+Route::get('/', function () {
+    return view('bienvenidos');
+});
 
 Auth::routes();
 
