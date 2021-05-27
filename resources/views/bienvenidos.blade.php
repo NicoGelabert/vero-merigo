@@ -85,7 +85,7 @@
 				<div class="flexslider">
 					<div class="slider-wrap">
 						<!-- Slide 1 -->
-						<div class="slide text-center" style="background: url('demos/modern-blog/images/slider/1.jpg') center center; background-size: cover;">
+						<div class="slide text-center" style="background: url('storage/images/modern-blog/images/slider/1.jpg') center center; background-size: cover;">
 							<div class="bg-overlay">
 								<div class="bg-overlay-content align-items-end">
 									<div class="slide-caption px-4 pb-4 dark">
@@ -96,7 +96,7 @@
 							</div>
 						</div>
 						<!-- Slide 2 -->
-						<div class="slide text-center" style="background: url('demos/modern-blog/images/slider/2.jpg') center center; background-size: cover;">
+						<div class="slide text-center" style="background: url('storage/images/modern-blog/images/slider/2.jpg') center center; background-size: cover;">
 							<div class="bg-overlay">
 								<div class="bg-overlay-content align-items-end">
 									<div class="slide-caption px-4 pb-4 dark">
@@ -107,7 +107,7 @@
 							</div>
 						</div>
 						<!-- Slide 3 -->
-						<div class="slide text-center" style="background: url('demos/modern-blog/images/slider/3.jpg') center center; background-size: cover;">
+						<div class="slide text-center" style="background: url('storage/images/modern-blog/images/slider/3.jpg') center center; background-size: cover;">
 							<div class="bg-overlay">
 								<div class="bg-overlay-content align-items-end">
 									<div class="slide-caption px-4 pb-4 dark">
@@ -143,7 +143,7 @@
 						<div class="col-md-6 p-3">
 							<div class="entry mb-1 clearfix">
 								<div class="entry-image mb-3">
-									<a href="demos/modern-blog/images/items/lightbox/1.jpg" data-lightbox="image" style="background: url('demos/modern-blog/images/items/1.jpg') no-repeat center center; background-size: cover; height: 278px;"></a>
+									<a href="demos/modern-blog/images/items/lightbox/1.jpg" data-lightbox="image" style="background: url('storage/images/modern-blog/images/items/1.jpg') no-repeat center center; background-size: cover; height: 278px;"></a>
 								</div>
 								<div class="entry-title">
 									<h3><a href="#">How To Make More travel By Doing Less</a></h3>
@@ -173,7 +173,7 @@
 									<h4>SemiColoWeb Tech.<span>Themeforest.net</span></h4>
 								</div>
 								<div class="entry-image mb-3">
-									<a href="demos/modern-blog/images/items/lightbox/2.jpg" data-lightbox="image" style="background: url('demos/modern-blog/images/items/2.jpg') no-repeat center center; background-size: cover; height: 190px;">
+									<a href="demos/modern-blog/images/items/lightbox/2.jpg" data-lightbox="image" style="background: url('storage/images/modern-blog/images/items/2.jpg') no-repeat center center; background-size: cover; height: 190px;">
 									</a>
 								</div>
 								<div class="entry-title">
@@ -227,8 +227,8 @@
 							<div class="entry mb-1 clearfix">
 								<div class="entry-image mb-3">
 									<a href="#">
-										<video poster="images/videos/explore-poster.jpg" preload="auto" loop autoplay muted style="display: block; width: 100%;">
-											<source src='images/videos/explore.mp4' type='video/mp4' />
+										<video poster="storage/videos/explore-poster.jpg" preload="auto" loop autoplay muted style="display: block; width: 100%;">
+											<source src='storage/videos/explore.mp4' type='video/mp4' />
 										</video>
 									</a>
 								</div>
@@ -263,7 +263,7 @@
 									<h3><a href="#">This is a Standard post with Author Name</a></h3>
 								</div>
 								<div class="entry-image mb-3">
-									<a href="demos/modern-blog/images/items/lightbox/3.jpg" data-lightbox="image" style="background: url('demos/modern-blog/images/items/3.jpg') no-repeat center bottom; background-size: cover; height: 210px;">
+									<a href="storage/images/modern-blog/images/items/lightbox/3.jpg" data-lightbox="image" style="background: url('storage/images/modern-blog/images/items/3.jpg') no-repeat center bottom; background-size: cover; height: 210px;">
 									</a>
 								</div>
 								<div class="entry-content">
@@ -290,9 +290,9 @@
 									<div class="fslider" data-arrows="false" data-lightbox="gallery">
 										<div class="flexslider">
 											<div class="slider-wrap">
-												<div class="slide"><a href="demos/modern-blog/images/items/lightbox/4-1.jpg" data-lightbox="gallery-item" style="background: url('demos/modern-blog/images/items/4-1.jpg') no-repeat center bottom; background-size: cover; height: 278px;"></a></div>
-												<div class="slide"><a href="demos/modern-blog/images/items/lightbox/4-2.jpg" data-lightbox="gallery-item" style="background: url('demos/modern-blog/images/items/4-2.jpg') no-repeat center bottom; background-size: cover; height: 278px;"></a></div>
-												<div class="slide"><a href="demos/modern-blog/images/items/lightbox/4-3.jpg" data-lightbox="gallery-item" style="background: url('demos/modern-blog/images/items/4-3.jpg') no-repeat center bottom; background-size: cover; height: 278px;"></a></div>
+												<div class="slide"><a href="storage/images/modern-blog/images/items/lightbox/4-1.jpg" data-lightbox="gallery-item" style="background: url('storage/images/modern-blog/images/items/4-1.jpg') no-repeat center bottom; background-size: cover; height: 278px;"></a></div>
+												<div class="slide"><a href="storage/images/modern-blog/images/items/lightbox/4-2.jpg" data-lightbox="gallery-item" style="background: url('storage/images/modern-blog/images/items/4-2.jpg') no-repeat center bottom; background-size: cover; height: 278px;"></a></div>
+												<div class="slide"><a href="storage/images/modern-blog/images/items/lightbox/4-3.jpg" data-lightbox="gallery-item" style="background: url('storage/images/modern-blog/images/items/4-3.jpg') no-repeat center bottom; background-size: cover; height: 278px;"></a></div>
 											</div>
 										</div>
 									</div>
@@ -319,7 +319,7 @@
 
 						<!-- ARTICLE NO. 7 -->
 						<div class="col-md-6 p-3">
-							<div class="entry mb-1 dark clearfix" style="background: url('demos/modern-blog/images/items/5.jpg') no-repeat center bottom; background-size: cover; height: 525px;">
+							<div class="entry mb-1 dark clearfix" style="background: url('storage/images/modern-blog/images/items/5.jpg') no-repeat center bottom; background-size: cover; height: 525px;">
 								<div class="entry-title pt-3">
 									<h3><a href="#" class="text-light">Standard Full Image</a></h3>
 								</div>
@@ -346,14 +346,14 @@
 						<div class="col-md-6 p-3">
 							<div class="entry mb-1 clearfix">
 								<div class="entry-user">
-									<img src="demos/modern-blog/images/user/3.jpg" alt="Image">
+									<img src="storage/images/modern-blog/images/user/3.jpg" alt="Image">
 									<h4>Annie Spratt.<span>Apple Inc.</span></h4>
 								</div>
 								<div class="entry-title">
 									<h3><a href="#">This is a Standard post with Image/Author</a></h3>
 								</div>
 								<div class="entry-image" style="padding-left: 20px; padding-right: 20px;">
-									<a href="demos/modern-blog/images/items/lightbox/8.jpg" data-lightbox="image" style="background: url('demos/modern-blog/images/items/8.jpg') no-repeat center bottom; background-size: cover; height: 160px;">
+									<a href="storage/images/modern-blog/images/items/lightbox/8.jpg" data-lightbox="image" style="background: url('storage/images/modern-blog/images/items/8.jpg') no-repeat center bottom; background-size: cover; height: 160px;">
 									</a>
 								</div>
 								<div class="entry-meta no-separator nohover">
@@ -378,15 +378,15 @@
 								</div>
 								<div class="entry-image">
 									<div class="masonry-thumbs grid-container" data-big="2" data-lightbox="gallery">
-										<a class="grid-item" href="demos/modern-blog/images/items/lightbox/9-1.jpg" data-lightbox="gallery-item"><img src="demos/modern-blog/images/items/9-1.jpg" alt="Gallery Thumb 1"></a>
-										<a class="grid-item" href="demos/modern-blog/images/items/lightbox/9-2.jpg" data-lightbox="gallery-item"><img src="demos/modern-blog/images/items/9-2.jpg" alt="Gallery Thumb 2"></a>
-										<a class="grid-item" href="demos/modern-blog/images/items/lightbox/9-3.jpg" data-lightbox="gallery-item"><img src="demos/modern-blog/images/items/9-3.jpg" alt="Gallery Thumb 3"></a>
-										<a class="grid-item" href="demos/modern-blog/images/items/lightbox/9-4.jpg" data-lightbox="gallery-item"><img src="demos/modern-blog/images/items/9-4.jpg" alt="Gallery Thumb 4"></a>
-										<a class="grid-item" href="demos/modern-blog/images/items/lightbox/9-5.jpg" data-lightbox="gallery-item"><img src="demos/modern-blog/images/items/9-5.jpg" alt="Gallery Thumb 5"></a>
-										<a class="grid-item" href="demos/modern-blog/images/items/lightbox/9-6.jpg" data-lightbox="gallery-item"><img src="demos/modern-blog/images/items/9-6.jpg" alt="Gallery Thumb 6"></a>
-										<a class="grid-item" href="demos/modern-blog/images/items/lightbox/9-7.jpg" data-lightbox="gallery-item"><img src="demos/modern-blog/images/items/9-7.jpg" alt="Gallery Thumb 7"></a>
-										<a class="grid-item" href="demos/modern-blog/images/items/lightbox/9-8.jpg" data-lightbox="gallery-item"><img src="demos/modern-blog/images/items/9-8.jpg" alt="Gallery Thumb 9"></a>
-										<a class="grid-item" href="demos/modern-blog/images/items/lightbox/9-9.jpg" data-lightbox="gallery-item"><img src="demos/modern-blog/images/items/9-9.jpg" alt="Gallery Thumb 10"></a>
+										<a class="grid-item" href="storage/images/modern-blog/images/items/lightbox/9-1.jpg" data-lightbox="gallery-item"><img src="storage/images/modern-blog/images/items/9-1.jpg" alt="Gallery Thumb 1"></a>
+										<a class="grid-item" href="storage/images/modern-blog/images/items/lightbox/9-2.jpg" data-lightbox="gallery-item"><img src="storage/images/modern-blog/images/items/9-2.jpg" alt="Gallery Thumb 2"></a>
+										<a class="grid-item" href="storage/images/modern-blog/images/items/lightbox/9-3.jpg" data-lightbox="gallery-item"><img src="storage/images/modern-blog/images/items/9-3.jpg" alt="Gallery Thumb 3"></a>
+										<a class="grid-item" href="storage/images/modern-blog/images/items/lightbox/9-4.jpg" data-lightbox="gallery-item"><img src="storage/images/modern-blog/images/items/9-4.jpg" alt="Gallery Thumb 4"></a>
+										<a class="grid-item" href="storage/images/modern-blog/images/items/lightbox/9-5.jpg" data-lightbox="gallery-item"><img src="storage/images/modern-blog/images/items/9-5.jpg" alt="Gallery Thumb 5"></a>
+										<a class="grid-item" href="storage/images/modern-blog/images/items/lightbox/9-6.jpg" data-lightbox="gallery-item"><img src="storage/images/modern-blog/images/items/9-6.jpg" alt="Gallery Thumb 6"></a>
+										<a class="grid-item" href="storage/images/modern-blog/images/items/lightbox/9-7.jpg" data-lightbox="gallery-item"><img src="storage/images/modern-blog/images/items/9-7.jpg" alt="Gallery Thumb 7"></a>
+										<a class="grid-item" href="storage/images/modern-blog/images/items/lightbox/9-8.jpg" data-lightbox="gallery-item"><img src="storage/images/modern-blog/images/items/9-8.jpg" alt="Gallery Thumb 9"></a>
+										<a class="grid-item" href="storage/images/modern-blog/images/items/lightbox/9-9.jpg" data-lightbox="gallery-item"><img src="storage/images/modern-blog/images/items/9-9.jpg" alt="Gallery Thumb 10"></a>
 									</div>
 								</div>
 								<div class="entry-content">
@@ -431,7 +431,7 @@
 				<div class="section bg-white pt-4 pb-0 topmargin-sm mb-0">
 					<div class="container">
 						<div class="heading-block d-flex justify-content-center center border-bottom-0 mb-4">
-							<img src="demos/modern-blog/images/instagram.png" class="align-self-center" alt="Image" height="28"><h3 class="ml-2 text-capitalize ls0 align-self-center">Instagram Feed</h3>
+							<img src="storage/images/modern-blog/images/instagram.png" class="align-self-center" alt="Image" height="28"><h3 class="ml-2 text-capitalize ls0 align-self-center">Instagram Feed</h3>
 						</div>
 					</div>
 					<div class="instagram-button position-relative">
